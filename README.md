@@ -26,9 +26,9 @@ QuantumOptics: This package provides the tools required to simulate quantum opti
 **Optimization of Control Parameters:** Apply multi-objective optimization techniques to fine-tune the parameters, ensuring high-fidelity quantum gate operations.
 
 **Visualization and Analysis:** Generate comprehensive plots and statistical analyses to visualize the performance and robustness of the aDCGs under various conditions.
-### How to View
+## How to View
 1. **Online Viewer:** Navigate to the GitHub repository, go to the 'src' folder, click on the notebook file ('Automated DCGs - Capstone project 2024.ipynb'). Here, GitHub provides a built-in viewer for Jupyter Notebooks.
-### How to Use
+## How to Use
 1. **Clone the Repository:** Download the repository to your local machine using 'git clone'.
    
 2. **Install Dependencies:** Ensure you have Julia installed then, in the Julia REPL, ensure all necessary Julia packages are installed.
